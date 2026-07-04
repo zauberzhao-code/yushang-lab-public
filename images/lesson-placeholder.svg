@@ -1,0 +1,7 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="26" fill="#0D1B3D"/>
+  <circle cx="520" cy="82" r="84" fill="#C8A15A" fill-opacity=".18"/>
+  <path d="M258 132L384 205L258 278V132Z" fill="#FFFDF8"/>
+  <text x="52" y="76" fill="#F6F0E6" font-size="28" font-family="Microsoft YaHei, sans-serif" font-weight="700">视频将在这里放置</text>
+  <text x="52" y="314" fill="#C8A15A" font-size="18" font-family="Microsoft YaHei, sans-serif">短视频 · 小任务 · 孩子自己的表达</text>
+</svg>
